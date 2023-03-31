@@ -17,7 +17,7 @@ import Footer from "./Ui/Footer/Footer";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
-  <BrowserRouter basename="/symposium">
+  <BrowserRouter basename="/kvcet_symposium">
     <Routes>
       <Route
         path="/"
