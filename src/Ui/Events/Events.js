@@ -5,11 +5,8 @@ import workshopimg from "./20230327_141610.jpg";
 import "./Events.css";
 import "./Eventimg.css";
 import { NavLink } from "react-router-dom";
-import { useNavigate } from "react-router-dom";
 
 function Events() {
-  const navigate = useNavigate();
-
   return (
     <div className="events">
       <center>

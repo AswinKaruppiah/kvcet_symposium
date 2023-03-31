@@ -1,8 +1,6 @@
 import React from "react";
-
 import "./About.css";
 import dpt from "./20230330_190331_0000.png";
-
 import "react-html5video/dist/styles.css";
 import promo from "./lv_0_20230325004541.mp4";
 
