@@ -11,7 +11,7 @@ function Intro() {
         <source src={intro} type="video/webm" />
         />
       </Video> */}
-      <video src={intro} autoplay="true" loop muted type="video/mp4" />
+      <video controls src={intro} autoplay="true" loop muted type="video/mp4" />
     </div>
   );
 }
