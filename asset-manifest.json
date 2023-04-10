@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/kvcet_symposium/static/css/main.ba1ff61c.css",
-    "main.js": "/kvcet_symposium/static/js/main.f5d6bfe4.js",
+    "main.js": "/kvcet_symposium/static/js/main.528703dc.js",
     "static/media/SymposiumFull.mp4": "/kvcet_symposium/static/media/SymposiumFull.78541a2d93f51fa8989e.mp4",
     "static/media/lv_0_20230325004541.mp4": "/kvcet_symposium/static/media/lv_0_20230325004541.fec5290c5906e8133999.mp4",
     "static/media/CodeFest design.4k (2).mp4": "/kvcet_symposium/static/media/CodeFest design.4k (2).012b772738108138488f.mp4",
@@ -12,10 +12,10 @@
     "static/media/20230330_190331_0000.png": "/kvcet_symposium/static/media/20230330_190331_0000.438314996ac47f09592e.png",
     "index.html": "/kvcet_symposium/index.html",
     "main.ba1ff61c.css.map": "/kvcet_symposium/static/css/main.ba1ff61c.css.map",
-    "main.f5d6bfe4.js.map": "/kvcet_symposium/static/js/main.f5d6bfe4.js.map"
+    "main.528703dc.js.map": "/kvcet_symposium/static/js/main.528703dc.js.map"
   },
   "entrypoints": [
     "static/css/main.ba1ff61c.css",
-    "static/js/main.f5d6bfe4.js"
+    "static/js/main.528703dc.js"
   ]
 }
