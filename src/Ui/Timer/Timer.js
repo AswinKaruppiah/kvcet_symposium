@@ -10,7 +10,7 @@ function Timer() {
 
   let interval = useRef();
   const StatTimer = () => {
-    const countDownDate = new Date("April 29,2023").getTime();
+    const countDownDate = new Date("April 29,2024").getTime();
 
     interval = setInterval(() => {
       const now = new Date().getTime();
